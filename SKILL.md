@@ -1,6 +1,16 @@
 ---
 name: ascii-shader-tsx
-description: Generate animated ASCII art, dithered visuals, and shader-like effects as self-contained React/TSX components. Use when the user wants to create ASCII backgrounds, dithered image/video effects, CRT/retro overlays, matrix rain, noise fields, halftone patterns, particle systems, braille art, terminal aesthetics, or any text/character-based visual effect for the web. Supports both generative (procedural, no input) and source-based (images, video, webcam → ASCII) modes. Also triggers when: user wants to convert an image to ASCII, add a dither effect, create a canvas shader component, build a retro/terminal background, animate characters, or create any character-grid visual. Even partial matches like "ASCII component", "dither", "character art", "CRT effect", "halftone", "noise background", "pixel art canvas", "text art", "generative canvas" should trigger this skill.
+description: >
+  Generate animated ASCII art, dithered visuals, and shader-like effects as self-contained
+  React/TSX components. Use when the user wants to create ASCII backgrounds, dithered
+  image/video effects, CRT/retro overlays, matrix rain, noise fields, halftone patterns,
+  particle systems, braille art, terminal aesthetics, or any text/character-based visual
+  effect for the web. Supports both generative (procedural, no input) and source-based
+  (images, video, webcam to ASCII) modes. Also triggers when the user wants to convert an
+  image to ASCII, add a dither effect, create a canvas shader component, build a retro or
+  terminal background, animate characters, or create any character-grid visual. Even partial
+  matches like ASCII component, dither, character art, CRT effect, halftone, noise background,
+  pixel art canvas, text art, or generative canvas should trigger this skill.
 ---
 
 # ASCII Shader TSX
