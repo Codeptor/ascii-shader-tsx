@@ -1,5 +1,6 @@
 ---
 name: ascii-shader-tsx
+license: MIT
 description: >
   Generate animated ASCII art, dithered visuals, and shader-like effects as self-contained
   React/TSX components. Use when the user wants to create ASCII backgrounds, dithered
